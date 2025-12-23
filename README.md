@@ -19,8 +19,13 @@ A machine learning–based web application to detect fraudulent credit card tran
  https://creditcardfrauddetection-d9jozrtrnyhzncil2fekhb.streamlit.app/
 
  Project Structure
+ 
 ├── app.py
+
 ├── fraud_model_rf.pkl
+
 ├── requirements.txt
+
 ├── runtime.txt
+
 └── README.md
